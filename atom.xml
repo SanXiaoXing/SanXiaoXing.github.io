@@ -3,11 +3,11 @@
   <title>SanXiaoXing （目前还在开发中，进度较慢）</title>
   
   <subtitle>开心每一天</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://sanxiaoxing.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://sanxiaoxing.github.io/"/>
   <updated>2023-10-27T15:00:46.555Z</updated>
-  <id>http://example.com/</id>
+  <id>http://sanxiaoxing.github.io/</id>
   
   <author>
     <name>SanXiaoXing</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/16107.html"/>
-    <id>http://example.com/posts/16107.html</id>
+    <link href="http://sanxiaoxing.github.io/posts/16107.html"/>
+    <id>http://sanxiaoxing.github.io/posts/16107.html</id>
     <published>2023-10-27T14:37:01.002Z</published>
     <updated>2023-10-27T15:00:46.555Z</updated>
     
