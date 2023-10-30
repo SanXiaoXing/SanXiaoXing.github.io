@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>SanXiaoXing （目前还在开发中，进度较慢）</title>
+  <title>SanXiaoXing</title>
   
   <subtitle>开心每一天</subtitle>
   <link href="http://sanxiaoxing.github.io/atom.xml" rel="self"/>
