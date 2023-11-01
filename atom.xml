@@ -6,7 +6,7 @@
   <link href="http://sanxiaoxing.github.io/atom.xml" rel="self"/>
   
   <link href="http://sanxiaoxing.github.io/"/>
-  <updated>2023-10-27T15:00:46.555Z</updated>
+  <updated>2023-11-01T08:53:16.949Z</updated>
   <id>http://sanxiaoxing.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Blog源文件GitHub</title>
+    <link href="http://sanxiaoxing.github.io/posts/0.html"/>
+    <id>http://sanxiaoxing.github.io/posts/0.html</id>
+    <published>2023-11-01T08:49:26.223Z</published>
+    <updated>2023-11-01T08:53:16.949Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="使用github上传自己的blog源文件"><a href="#使用github上传自己的blog源文件" class="headerlink" title="使用github上传自己的blog源文件"></a>使用github上传自己的blog源文件</h1><h3 id="新环境"><a href="#新环境" class="headerlink" title="新环境"></a>新环境</h3><p>要在新环境继续在原有仓库基础上撸文章，此时通过<code>git clone</code>将博客源码拉到本地，然后安装、初始化hexo就能搞定：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">git clone ...</span><br><span class="line">npm install hexo</span><br><span class="line">npm install hexo-deployer-git -save</span><br><span class="line"></span><br><span class="line">// hexo环境配置好后，继续像之前一样</span><br><span class="line">hexo new post_name</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;使用github上传自己的blog源文件&quot;&gt;&lt;a href=&quot;#使用github上传自己的blog源文件&quot; class=&quot;headerlink&quot; title=&quot;使用github上传自己的blog源文件&quot;&gt;&lt;/a&gt;使用github上传自己的blog源文件&lt;/h1&gt;&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
