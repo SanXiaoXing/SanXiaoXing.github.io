@@ -11,7 +11,61 @@
   </url>
   
   <url>
+    <loc>https://happy.sanxiaoxing.cn/json/music.json</loc>
+    
+    <lastmod>2023-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/link/index.html</loc>
+    
+    <lastmod>2023-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/music/index.html</loc>
+    
+    <lastmod>2023-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://happy.sanxiaoxing.cn/tags/index.html</loc>
+    
+    <lastmod>2023-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/gallery/index.html</loc>
+    
+    <lastmod>2023-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/gallery/genshin/index.html</loc>
+    
+    <lastmod>2023-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/gallery/wallpaper/index.html</loc>
     
     <lastmod>2023-12-12</lastmod>
     
@@ -84,33 +138,6 @@
   
   <url>
     <loc>https://happy.sanxiaoxing.cn/categories/index.html</loc>
-    
-    <lastmod>2023-12-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happy.sanxiaoxing.cn/gallery/index.html</loc>
-    
-    <lastmod>2023-12-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happy.sanxiaoxing.cn/gallery/genshin/index.html</loc>
-    
-    <lastmod>2023-12-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happy.sanxiaoxing.cn/gallery/wallpaper/index.html</loc>
     
     <lastmod>2023-12-12</lastmod>
     
@@ -200,14 +227,14 @@
   </url>
   
   <url>
-    <loc>https://happy.sanxiaoxing.cn/categories/python/SSH/</loc>
+    <loc>https://happy.sanxiaoxing.cn/categories/hexo/Github/</loc>
     <lastmod>2023-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://happy.sanxiaoxing.cn/categories/hexo/Github/</loc>
+    <loc>https://happy.sanxiaoxing.cn/categories/python/SSH/</loc>
     <lastmod>2023-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
