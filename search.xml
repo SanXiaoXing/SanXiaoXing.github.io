@@ -269,6 +269,17 @@
     
     
     <entry>
+      <title>equipment</title>
+      <link href="/equipment/index.html"/>
+      <url>/equipment/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>小图库</title>
       <link href="/gallery/index.html"/>
       <url>/gallery/index.html</url>
