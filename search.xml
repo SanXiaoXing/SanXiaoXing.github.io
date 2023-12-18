@@ -291,6 +291,17 @@
     
     
     <entry>
+      <title>即刻短文</title>
+      <link href="/essay/index.html"/>
+      <url>/essay/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>小图库</title>
       <link href="/gallery/index.html"/>
       <url>/gallery/index.html</url>
