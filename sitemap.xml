@@ -47,6 +47,33 @@
   </url>
   
   <url>
+    <loc>https://happy.sanxiaoxing.cn/gallery/index.html</loc>
+    
+    <lastmod>2023-12-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/gallery/genshin/index.html</loc>
+    
+    <lastmod>2023-12-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2023-12-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://happy.sanxiaoxing.cn/posts/11d731c5.html</loc>
     
     <lastmod>2023-12-18</lastmod>
@@ -66,6 +93,15 @@
   
   <url>
     <loc>https://happy.sanxiaoxing.cn/posts/fb2e31d6.html</loc>
+    
+    <lastmod>2023-12-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/posts/de7f0b92.html</loc>
     
     <lastmod>2023-12-18</lastmod>
     
@@ -102,6 +138,15 @@
   
   <url>
     <loc>https://happy.sanxiaoxing.cn/posts/5bed7dca.html</loc>
+    
+    <lastmod>2023-12-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/posts/a6a24535.html</loc>
     
     <lastmod>2023-12-18</lastmod>
     
@@ -154,33 +199,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://happy.sanxiaoxing.cn/gallery/index.html</loc>
-    
-    <lastmod>2023-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happy.sanxiaoxing.cn/gallery/genshin/index.html</loc>
-    
-    <lastmod>2023-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happy.sanxiaoxing.cn/gallery/wallpaper/index.html</loc>
-    
-    <lastmod>2023-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://happy.sanxiaoxing.cn/</loc>
@@ -212,6 +230,13 @@
   </url>
   
   <url>
+    <loc>https://happy.sanxiaoxing.cn/tags/Tag-Plugins/</loc>
+    <lastmod>2023-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://happy.sanxiaoxing.cn/tags/hexo/</loc>
     <lastmod>2023-12-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -220,6 +245,13 @@
   
   <url>
     <loc>https://happy.sanxiaoxing.cn/tags/OpenCV/</loc>
+    <lastmod>2023-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/tags/anzhiyu/</loc>
     <lastmod>2023-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -242,14 +274,14 @@
   </url>
   
   <url>
-    <loc>https://happy.sanxiaoxing.cn/categories/hexo/</loc>
+    <loc>https://happy.sanxiaoxing.cn/categories/python/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2023-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://happy.sanxiaoxing.cn/categories/python/%E7%88%AC%E8%99%AB/</loc>
+    <loc>https://happy.sanxiaoxing.cn/categories/hexo/</loc>
     <lastmod>2023-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -271,6 +303,13 @@
   
   <url>
     <loc>https://happy.sanxiaoxing.cn/categories/hexo/Github/</loc>
+    <lastmod>2023-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/categories/hexo/anzhiyu/</loc>
     <lastmod>2023-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
