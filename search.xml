@@ -225,6 +225,17 @@
     
     
     <entry>
+      <title>chatbot</title>
+      <link href="/chatbot/index.html"/>
+      <url>/chatbot/index.html</url>
+      
+        <content type="html"><![CDATA[<div align=center class="aspect-ratio">    <iframe src="//chatbot.sanxiaoxing.cn/" scrolling="auto" border="0" frameborder="0" framespacing="0" allowfullscreen="true"> </iframe></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/bounce.css"/>
       <url>/css/bounce.css</url>
@@ -269,7 +280,7 @@
     
     
     <entry>
-      <title>equipment</title>
+      <title>我的装备</title>
       <link href="/equipment/index.html"/>
       <url>/equipment/index.html</url>
       
@@ -324,7 +335,7 @@
     
     
     <entry>
-      <title>music</title>
+      <title>我的音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
@@ -335,7 +346,7 @@
     
     
     <entry>
-      <title>tags</title>
+      <title>标签页</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
