@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/posts/0.html"/>
-      <url>/posts/0.html</url>
-      
-        <content type="html"><![CDATA[<p>以二叉链表作为二叉树的存储结构，编写交换二叉树每个结点的左孩子和右孩子<br>的类C算法。相关类型定义如下：</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">typedef</span> <span class="class"><span class="keyword">struct</span> <span class="title">BiTNode</span>&#123;</span></span><br><span class="line"><span class="type">char</span> data;</span><br><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">BiTNode</span> *<span class="title">lchild</span>,*<span class="title">rchild</span>;</span></span><br><span class="line">BiTNode,*BiTree;</span><br><span class="line"><span class="comment">//注：请在必要处写出注释</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">ChangeLR</span><span class="params">(BiTree &amp;T)</span></span><br><span class="line">&#123;<span class="comment">//T是二叉树根结点的指针，请填写类C程序代码。</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&#125;<span class="comment">//算法结束</span></span><br></pre></td></tr></table></figure><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">ChangeLR</span><span class="params">(BiTree &amp;T)</span></span><br><span class="line">&#123;</span><br><span class="line"><span class="keyword">if</span>(T==<span class="literal">NULL</span>)</span><br><span class="line"><span class="keyword">return</span>;</span><br><span class="line"></span><br><span class="line">BiTNode *temp;</span><br><span class="line"></span><br><span class="line"><span class="comment">//交换每个结点的左右孩子</span></span><br><span class="line">temp = T-&gt;lchild;</span><br><span class="line">T-&gt;lchild = T-&gt;rchild;</span><br><span class="line">T-&gt;rchild = temp;</span><br><span class="line"></span><br><span class="line"><span class="comment">//递归处理左子树</span></span><br><span class="line">ChangeLR(T-&gt;lchild);</span><br><span class="line"></span><br><span class="line"><span class="comment">//递归处理右子树</span></span><br><span class="line">ChangeLR(T-&gt;rchild);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>修改anzhiyu配置</title>
       <link href="/posts/a6a24535.html"/>
       <url>/posts/a6a24535.html</url>
