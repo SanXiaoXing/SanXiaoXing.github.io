@@ -320,13 +320,6 @@
   </url>
   
   <url>
-    <loc>https://happy.sanxiaoxing.cn/categories/hexo/Github/</loc>
-    <lastmod>2023-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://happy.sanxiaoxing.cn/categories/python/SSH/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -334,14 +327,21 @@
   </url>
   
   <url>
-    <loc>https://happy.sanxiaoxing.cn/categories/hexo/anzhiyu/</loc>
+    <loc>https://happy.sanxiaoxing.cn/categories/%E8%8A%82%E6%97%A5%E5%BF%AB%E4%B9%90/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://happy.sanxiaoxing.cn/categories/%E8%8A%82%E6%97%A5%E5%BF%AB%E4%B9%90/</loc>
+    <loc>https://happy.sanxiaoxing.cn/categories/hexo/Github/</loc>
+    <lastmod>2023-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/categories/hexo/anzhiyu/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
