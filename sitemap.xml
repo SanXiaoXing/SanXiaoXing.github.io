@@ -47,33 +47,6 @@
   </url>
   
   <url>
-    <loc>https://happy.sanxiaoxing.cn/gallery/index.html</loc>
-    
-    <lastmod>2024-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happy.sanxiaoxing.cn/gallery/genshin/index.html</loc>
-    
-    <lastmod>2024-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://happy.sanxiaoxing.cn/gallery/wallpaper/index.html</loc>
-    
-    <lastmod>2024-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://happy.sanxiaoxing.cn/posts/11d731c5.html</loc>
     
     <lastmod>2024-01-02</lastmod>
@@ -217,6 +190,33 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/gallery/index.html</loc>
+    
+    <lastmod>2024-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/gallery/genshin/index.html</loc>
+    
+    <lastmod>2024-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://happy.sanxiaoxing.cn/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2024-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://happy.sanxiaoxing.cn/</loc>
@@ -327,6 +327,13 @@
   </url>
   
   <url>
+    <loc>https://happy.sanxiaoxing.cn/categories/%E8%8A%82%E6%97%A5%E5%BF%AB%E4%B9%90/</loc>
+    <lastmod>2024-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://happy.sanxiaoxing.cn/categories/hexo/Github/</loc>
     <lastmod>2024-01-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -335,13 +342,6 @@
   
   <url>
     <loc>https://happy.sanxiaoxing.cn/categories/hexo/anzhiyu/</loc>
-    <lastmod>2024-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://happy.sanxiaoxing.cn/categories/%E8%8A%82%E6%97%A5%E5%BF%AB%E4%B9%90/</loc>
     <lastmod>2024-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
