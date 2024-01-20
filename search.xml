@@ -329,7 +329,7 @@
       <link href="/chatbot/index.html"/>
       <url>/chatbot/index.html</url>
       
-        <content type="html"><![CDATA[<p>界面太小？跳转界面至 <a class="btn-anzhiyu outline" href="https://chat.sanxiaoxing.cn/"   title="跳转ChatBot"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>跳转ChatBot</span></a></p><div align=center class="aspect-ratio">    <iframe src="https://chat.sanxiaoxing.cn/" scrolling="auto" border="0" frameborder="0" framespacing="0" allowfullscreen="true"> </iframe></div>]]></content>
+        <content type="html"><![CDATA[<p>界面太小？跳转界面至 <a class="btn-anzhiyu outline" href="https://chatai.sanxiaoxing.cn/"   title="跳转ChatBot"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>跳转ChatBot</span></a></p><div align=center class="aspect-ratio">    <iframe src="https://chatai.sanxiaoxing.cn/" scrolling="auto" border="0" frameborder="0" framespacing="0" allowfullscreen="true"> </iframe></div>]]></content>
       
     </entry>
     
