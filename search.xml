@@ -353,17 +353,6 @@
     
     
     <entry>
-      <title>文章分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/manifest.json"/>
       <url>/manifest.json</url>
@@ -380,6 +369,28 @@
       <url>/chatbot/index.html</url>
       
         <content type="html"><![CDATA[<p>界面太小？跳转界面至 <a class="btn-anzhiyu outline" href="https://hello.sanxiaoxing.cn/"   title="跳转ChatBot"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>跳转ChatBot</span></a></p><div align=center class="aspect-ratio">    <iframe src="https://hello.sanxiaoxing.cn/" scrolling="auto" border="0" frameborder="0" framespacing="0" allowfullscreen="true"> </iframe></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文章分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的装备</title>
+      <link href="/equipment/index.html"/>
+      <url>/equipment/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -409,17 +420,6 @@
     
     <entry>
       <title></title>
-      <link href="/css/loading-bar.css"/>
-      <url>/css/loading-bar.css</url>
-      
-        <content type="html"><![CDATA[.pace {-webkit-pointer-events: none;pointer-events: none;-webkit-user-select: none;-moz-user-select: none;user-select: none;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;-webkit-background-clip: padding-box;-moz-background-clip: padding;background-clip: padding-box;z-index: 2000;position: fixed;margin: auto;top: 12px;left: 0;right: 0;bottom: 0;width: 200px;height: 50px;overflow: hidden;}.pace .pace-progress {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;-webkit-background-clip: padding-box;-moz-background-clip: padding;background-clip: padding-box;-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);display: block;position: absolute;right: 100%;margin-right: -7px;width: 93%;top: 7px;height: 14px;font-size: 12px;background: #22a2ec;color: #22a2ec;line-height: 60px;font-weight: bold;font-family: Helvetica, Arial, "Lucida Grande", sans-serif;-webkit-box-shadow: 120px 0 #fff, 240px 0 #fff;-ms-box-shadow: 120px 0 #fff, 240px 0 #fff;box-shadow: 120px 0 #fff, 240px 0 #fff;}.pace .pace-progress:after {content: attr(data-progress-text);display: inline-block;position: fixed;width: 45px;text-align: right;right: 0;padding-right: 16px;top: 4px;}.pace .pace-progress[data-progress-text="0%"]:after { right: -200px }.pace .pace-progress[data-progress-text="1%"]:after { right: -198.14px }.pace .pace-progress[data-progress-text="2%"]:after { right: -196.28px }.pace .pace-progress[data-progress-text="3%"]:after { right: -194.42px }.pace .pace-progress[data-progress-text="4%"]:after { right: -192.56px }.pace .pace-progress[data-progress-text="5%"]:after { right: -190.7px }.pace .pace-progress[data-progress-text="6%"]:after { right: -188.84px }.pace .pace-progress[data-progress-text="7%"]:after { right: -186.98px }.pace .pace-progress[data-progress-text="8%"]:after { right: -185.12px }.pace .pace-progress[data-progress-text="9%"]:after { right: -183.26px }.pace .pace-progress[data-progress-text="10%"]:after { right: -181.4px }.pace .pace-progress[data-progress-text="11%"]:after { right: -179.54px }.pace .pace-progress[data-progress-text="12%"]:after { right: -177.68px }.pace .pace-progress[data-progress-text="13%"]:after { right: -175.82px }.pace .pace-progress[data-progress-text="14%"]:after { right: -173.96px }.pace .pace-progress[data-progress-text="15%"]:after { right: -172.1px }.pace .pace-progress[data-progress-text="16%"]:after { right: -170.24px }.pace .pace-progress[data-progress-text="17%"]:after { right: -168.38px }.pace .pace-progress[data-progress-text="18%"]:after { right: -166.52px }.pace .pace-progress[data-progress-text="19%"]:after { right: -164.66px }.pace .pace-progress[data-progress-text="20%"]:after { right: -162.8px }.pace .pace-progress[data-progress-text="21%"]:after { right: -160.94px }.pace .pace-progress[data-progress-text="22%"]:after { right: -159.08px }.pace .pace-progress[data-progress-text="23%"]:after { right: -157.22px }.pace .pace-progress[data-progress-text="24%"]:after { right: -155.36px }.pace .pace-progress[data-progress-text="25%"]:after { right: -153.5px }.pace .pace-progress[data-progress-text="26%"]:after { right: -151.64px }.pace .pace-progress[data-progress-text="27%"]:after { right: -149.78px }.pace .pace-progress[data-progress-text="28%"]:after { right: -147.92px }.pace .pace-progress[data-progress-text="29%"]:after { right: -146.06px }.pace .pace-progress[data-progress-text="30%"]:after { right: -144.2px }.pace .pace-progress[data-progress-text="31%"]:after { right: -142.34px }.pace .pace-progress[data-progress-text="32%"]:after { right: -140.48px }.pace .pace-progress[data-progress-text="33%"]:after { right: -138.62px }.pace .pace-progress[data-progress-text="34%"]:after { right: -136.76px }.pace .pace-progress[data-progress-text="35%"]:after { right: -134.9px }.pace .pace-progress[data-progress-text="36%"]:after { right: -133.04px }.pace .pace-progress[data-progress-text="37%"]:after { right: -131.18px }.pace .pace-progress[data-progress-text="38%"]:after { right: -129.32px }.pace .pace-progress[data-progress-text="39%"]:after { right: -127.46px }.pace .pace-progress[data-progress-text="40%"]:after { right: -125.6px }.pace .pace-progress[data-progress-text="41%"]:after { right: -123.74px }.pace .pace-progress[data-progress-text="42%"]:after { right: -121.88px }.pace .pace-progress[data-progress-text="43%"]:after { right: -120.02px }.pace .pace-progress[data-progress-text="44%"]:after { right: -118.16px }.pace .pace-progress[data-progress-text="45%"]:after { right: -116.3px }.pace .pace-progress[data-progress-text="46%"]:after { right: -114.44px }.pace .pace-progress[data-progress-text="47%"]:after { right: -112.58px }.pace .pace-progress[data-progress-text="48%"]:after { right: -110.72px }.pace .pace-progress[data-progress-text="49%"]:after { right: -108.86px }.pace .pace-progress[data-progress-text="50%"]:after { right: -107px }.pace .pace-progress[data-progress-text="51%"]:after { right: -105.14px }.pace .pace-progress[data-progress-text="52%"]:after { right: -103.28px }.pace .pace-progress[data-progress-text="53%"]:after { right: -101.42px }.pace .pace-progress[data-progress-text="54%"]:after { right: -99.56px }.pace .pace-progress[data-progress-text="55%"]:after { right: -97.7px }.pace .pace-progress[data-progress-text="56%"]:after { right: -95.84px }.pace .pace-progress[data-progress-text="57%"]:after { right: -93.98px }.pace .pace-progress[data-progress-text="58%"]:after { right: -92.12px }.pace .pace-progress[data-progress-text="59%"]:after { right: -90.26px }.pace .pace-progress[data-progress-text="60%"]:after { right: -88.4px }.pace .pace-progress[data-progress-text="61%"]:after { right: -86.53999999999999px }.pace .pace-progress[data-progress-text="62%"]:after { right: -84.68px }.pace .pace-progress[data-progress-text="63%"]:after { right: -82.82px }.pace .pace-progress[data-progress-text="64%"]:after { right: -80.96000000000001px }.pace .pace-progress[data-progress-text="65%"]:after { right: -79.1px }.pace .pace-progress[data-progress-text="66%"]:after { right: -77.24px }.pace .pace-progress[data-progress-text="67%"]:after { right: -75.38px }.pace .pace-progress[data-progress-text="68%"]:after { right: -73.52px }.pace .pace-progress[data-progress-text="69%"]:after { right: -71.66px }.pace .pace-progress[data-progress-text="70%"]:after { right: -69.8px }.pace .pace-progress[data-progress-text="71%"]:after { right: -67.94px }.pace .pace-progress[data-progress-text="72%"]:after { right: -66.08px }.pace .pace-progress[data-progress-text="73%"]:after { right: -64.22px }.pace .pace-progress[data-progress-text="74%"]:after { right: -62.36px }.pace .pace-progress[data-progress-text="75%"]:after { right: -60.5px }.pace .pace-progress[data-progress-text="76%"]:after { right: -58.64px }.pace .pace-progress[data-progress-text="77%"]:after { right: -56.78px }.pace .pace-progress[data-progress-text="78%"]:after { right: -54.92px }.pace .pace-progress[data-progress-text="79%"]:after { right: -53.06px }.pace .pace-progress[data-progress-text="80%"]:after { right: -51.2px }.pace .pace-progress[data-progress-text="81%"]:after { right: -49.34px }.pace .pace-progress[data-progress-text="82%"]:after { right: -47.480000000000004px }.pace .pace-progress[data-progress-text="83%"]:after { right: -45.62px }.pace .pace-progress[data-progress-text="84%"]:after { right: -43.76px }.pace .pace-progress[data-progress-text="85%"]:after { right: -41.9px }.pace .pace-progress[data-progress-text="86%"]:after { right: -40.04px }.pace .pace-progress[data-progress-text="87%"]:after { right: -38.18px }.pace .pace-progress[data-progress-text="88%"]:after { right: -36.32px }.pace .pace-progress[data-progress-text="89%"]:after { right: -34.46px }.pace .pace-progress[data-progress-text="90%"]:after { right: -32.6px }.pace .pace-progress[data-progress-text="91%"]:after { right: -30.740000000000002px }.pace .pace-progress[data-progress-text="92%"]:after { right: -28.880000000000003px }.pace .pace-progress[data-progress-text="93%"]:after { right: -27.02px }.pace .pace-progress[data-progress-text="94%"]:after { right: -25.16px }.pace .pace-progress[data-progress-text="95%"]:after { right: -23.3px }.pace .pace-progress[data-progress-text="96%"]:after { right: -21.439999999999998px }.pace .pace-progress[data-progress-text="97%"]:after { right: -19.58px }.pace .pace-progress[data-progress-text="98%"]:after { right: -17.72px }.pace .pace-progress[data-progress-text="99%"]:after { right: -15.86px }.pace .pace-progress[data-progress-text="100%"]:after { right: -14px }.pace .pace-activity {position: absolute;width: 100%;height: 28px;z-index: 2001;box-shadow: inset 0 0 0 2px #22a2ec, inset 0 0 0 7px #FFF;border-radius: 10px;}.pace.pace-inactive {display: none;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/css/custom_new.css"/>
       <url>/css/custom_new.css</url>
       
@@ -430,11 +430,11 @@
     
     
     <entry>
-      <title>我的装备</title>
-      <link href="/equipment/index.html"/>
-      <url>/equipment/index.html</url>
+      <title></title>
+      <link href="/css/loading-bar.css"/>
+      <url>/css/loading-bar.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[.pace {-webkit-pointer-events: none;pointer-events: none;-webkit-user-select: none;-moz-user-select: none;user-select: none;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;-webkit-background-clip: padding-box;-moz-background-clip: padding;background-clip: padding-box;z-index: 2000;position: fixed;margin: auto;top: 12px;left: 0;right: 0;bottom: 0;width: 200px;height: 50px;overflow: hidden;}.pace .pace-progress {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;-webkit-background-clip: padding-box;-moz-background-clip: padding;background-clip: padding-box;-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);display: block;position: absolute;right: 100%;margin-right: -7px;width: 93%;top: 7px;height: 14px;font-size: 12px;background: #22a2ec;color: #22a2ec;line-height: 60px;font-weight: bold;font-family: Helvetica, Arial, "Lucida Grande", sans-serif;-webkit-box-shadow: 120px 0 #fff, 240px 0 #fff;-ms-box-shadow: 120px 0 #fff, 240px 0 #fff;box-shadow: 120px 0 #fff, 240px 0 #fff;}.pace .pace-progress:after {content: attr(data-progress-text);display: inline-block;position: fixed;width: 45px;text-align: right;right: 0;padding-right: 16px;top: 4px;}.pace .pace-progress[data-progress-text="0%"]:after { right: -200px }.pace .pace-progress[data-progress-text="1%"]:after { right: -198.14px }.pace .pace-progress[data-progress-text="2%"]:after { right: -196.28px }.pace .pace-progress[data-progress-text="3%"]:after { right: -194.42px }.pace .pace-progress[data-progress-text="4%"]:after { right: -192.56px }.pace .pace-progress[data-progress-text="5%"]:after { right: -190.7px }.pace .pace-progress[data-progress-text="6%"]:after { right: -188.84px }.pace .pace-progress[data-progress-text="7%"]:after { right: -186.98px }.pace .pace-progress[data-progress-text="8%"]:after { right: -185.12px }.pace .pace-progress[data-progress-text="9%"]:after { right: -183.26px }.pace .pace-progress[data-progress-text="10%"]:after { right: -181.4px }.pace .pace-progress[data-progress-text="11%"]:after { right: -179.54px }.pace .pace-progress[data-progress-text="12%"]:after { right: -177.68px }.pace .pace-progress[data-progress-text="13%"]:after { right: -175.82px }.pace .pace-progress[data-progress-text="14%"]:after { right: -173.96px }.pace .pace-progress[data-progress-text="15%"]:after { right: -172.1px }.pace .pace-progress[data-progress-text="16%"]:after { right: -170.24px }.pace .pace-progress[data-progress-text="17%"]:after { right: -168.38px }.pace .pace-progress[data-progress-text="18%"]:after { right: -166.52px }.pace .pace-progress[data-progress-text="19%"]:after { right: -164.66px }.pace .pace-progress[data-progress-text="20%"]:after { right: -162.8px }.pace .pace-progress[data-progress-text="21%"]:after { right: -160.94px }.pace .pace-progress[data-progress-text="22%"]:after { right: -159.08px }.pace .pace-progress[data-progress-text="23%"]:after { right: -157.22px }.pace .pace-progress[data-progress-text="24%"]:after { right: -155.36px }.pace .pace-progress[data-progress-text="25%"]:after { right: -153.5px }.pace .pace-progress[data-progress-text="26%"]:after { right: -151.64px }.pace .pace-progress[data-progress-text="27%"]:after { right: -149.78px }.pace .pace-progress[data-progress-text="28%"]:after { right: -147.92px }.pace .pace-progress[data-progress-text="29%"]:after { right: -146.06px }.pace .pace-progress[data-progress-text="30%"]:after { right: -144.2px }.pace .pace-progress[data-progress-text="31%"]:after { right: -142.34px }.pace .pace-progress[data-progress-text="32%"]:after { right: -140.48px }.pace .pace-progress[data-progress-text="33%"]:after { right: -138.62px }.pace .pace-progress[data-progress-text="34%"]:after { right: -136.76px }.pace .pace-progress[data-progress-text="35%"]:after { right: -134.9px }.pace .pace-progress[data-progress-text="36%"]:after { right: -133.04px }.pace .pace-progress[data-progress-text="37%"]:after { right: -131.18px }.pace .pace-progress[data-progress-text="38%"]:after { right: -129.32px }.pace .pace-progress[data-progress-text="39%"]:after { right: -127.46px }.pace .pace-progress[data-progress-text="40%"]:after { right: -125.6px }.pace .pace-progress[data-progress-text="41%"]:after { right: -123.74px }.pace .pace-progress[data-progress-text="42%"]:after { right: -121.88px }.pace .pace-progress[data-progress-text="43%"]:after { right: -120.02px }.pace .pace-progress[data-progress-text="44%"]:after { right: -118.16px }.pace .pace-progress[data-progress-text="45%"]:after { right: -116.3px }.pace .pace-progress[data-progress-text="46%"]:after { right: -114.44px }.pace .pace-progress[data-progress-text="47%"]:after { right: -112.58px }.pace .pace-progress[data-progress-text="48%"]:after { right: -110.72px }.pace .pace-progress[data-progress-text="49%"]:after { right: -108.86px }.pace .pace-progress[data-progress-text="50%"]:after { right: -107px }.pace .pace-progress[data-progress-text="51%"]:after { right: -105.14px }.pace .pace-progress[data-progress-text="52%"]:after { right: -103.28px }.pace .pace-progress[data-progress-text="53%"]:after { right: -101.42px }.pace .pace-progress[data-progress-text="54%"]:after { right: -99.56px }.pace .pace-progress[data-progress-text="55%"]:after { right: -97.7px }.pace .pace-progress[data-progress-text="56%"]:after { right: -95.84px }.pace .pace-progress[data-progress-text="57%"]:after { right: -93.98px }.pace .pace-progress[data-progress-text="58%"]:after { right: -92.12px }.pace .pace-progress[data-progress-text="59%"]:after { right: -90.26px }.pace .pace-progress[data-progress-text="60%"]:after { right: -88.4px }.pace .pace-progress[data-progress-text="61%"]:after { right: -86.53999999999999px }.pace .pace-progress[data-progress-text="62%"]:after { right: -84.68px }.pace .pace-progress[data-progress-text="63%"]:after { right: -82.82px }.pace .pace-progress[data-progress-text="64%"]:after { right: -80.96000000000001px }.pace .pace-progress[data-progress-text="65%"]:after { right: -79.1px }.pace .pace-progress[data-progress-text="66%"]:after { right: -77.24px }.pace .pace-progress[data-progress-text="67%"]:after { right: -75.38px }.pace .pace-progress[data-progress-text="68%"]:after { right: -73.52px }.pace .pace-progress[data-progress-text="69%"]:after { right: -71.66px }.pace .pace-progress[data-progress-text="70%"]:after { right: -69.8px }.pace .pace-progress[data-progress-text="71%"]:after { right: -67.94px }.pace .pace-progress[data-progress-text="72%"]:after { right: -66.08px }.pace .pace-progress[data-progress-text="73%"]:after { right: -64.22px }.pace .pace-progress[data-progress-text="74%"]:after { right: -62.36px }.pace .pace-progress[data-progress-text="75%"]:after { right: -60.5px }.pace .pace-progress[data-progress-text="76%"]:after { right: -58.64px }.pace .pace-progress[data-progress-text="77%"]:after { right: -56.78px }.pace .pace-progress[data-progress-text="78%"]:after { right: -54.92px }.pace .pace-progress[data-progress-text="79%"]:after { right: -53.06px }.pace .pace-progress[data-progress-text="80%"]:after { right: -51.2px }.pace .pace-progress[data-progress-text="81%"]:after { right: -49.34px }.pace .pace-progress[data-progress-text="82%"]:after { right: -47.480000000000004px }.pace .pace-progress[data-progress-text="83%"]:after { right: -45.62px }.pace .pace-progress[data-progress-text="84%"]:after { right: -43.76px }.pace .pace-progress[data-progress-text="85%"]:after { right: -41.9px }.pace .pace-progress[data-progress-text="86%"]:after { right: -40.04px }.pace .pace-progress[data-progress-text="87%"]:after { right: -38.18px }.pace .pace-progress[data-progress-text="88%"]:after { right: -36.32px }.pace .pace-progress[data-progress-text="89%"]:after { right: -34.46px }.pace .pace-progress[data-progress-text="90%"]:after { right: -32.6px }.pace .pace-progress[data-progress-text="91%"]:after { right: -30.740000000000002px }.pace .pace-progress[data-progress-text="92%"]:after { right: -28.880000000000003px }.pace .pace-progress[data-progress-text="93%"]:after { right: -27.02px }.pace .pace-progress[data-progress-text="94%"]:after { right: -25.16px }.pace .pace-progress[data-progress-text="95%"]:after { right: -23.3px }.pace .pace-progress[data-progress-text="96%"]:after { right: -21.439999999999998px }.pace .pace-progress[data-progress-text="97%"]:after { right: -19.58px }.pace .pace-progress[data-progress-text="98%"]:after { right: -17.72px }.pace .pace-progress[data-progress-text="99%"]:after { right: -15.86px }.pace .pace-progress[data-progress-text="100%"]:after { right: -14px }.pace .pace-activity {position: absolute;width: 100%;height: 28px;z-index: 2001;box-shadow: inset 0 0 0 2px #22a2ec, inset 0 0 0 7px #FFF;border-radius: 10px;}.pace.pace-inactive {display: none;}]]></content>
       
     </entry>
     
@@ -464,17 +464,6 @@
     
     <entry>
       <title></title>
-      <link href="/json/music.json"/>
-      <url>/json/music.json</url>
-      
-        <content type="html"><![CDATA[[{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}]]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/announce.js"/>
       <url>/js/announce.js</url>
       
@@ -485,9 +474,31 @@
     
     
     <entry>
+      <title></title>
+      <link href="/json/music.json"/>
+      <url>/json/music.json</url>
+      
+        <content type="html"><![CDATA[[{"name":"青花瓷","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002eFUFm2XYZ7z_2.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/青花瓷/青花瓷.lrc"},{"name":"稻香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/稻香/稻香.lrc"},{"name":"晴天","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/晴天/晴天.lrc"},{"name":"七里香","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/七里香/七里香.lrc"},{"name":"花海","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/花海/花海.lrc"},{"name":"反方向的钟","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/反方向的钟/反方向的钟.lrc"},{"name":"兰亭序","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/兰亭序/兰亭序.lrc"},{"name":"说好的辛福呢","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的辛福呢.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002Neh8l0uciQZ_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/说好的辛福呢/说好的幸福呢.lrc"},{"name":"等你下课 (with 杨瑞代)","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003bSL0v4bpKAx_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.1/周杰伦/等你下课/等你下课.lrc"},{"name":"我落泪情绪零碎","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000bviBl4FjTpO_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/我落泪情绪零碎/我落泪情绪零碎.lrc"},{"name":"听妈妈的话","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.2/听妈妈的话/听妈妈的话.lrc"},{"name":"明明就","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003Ow85E3pnoqi_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/明明就/明明就.lrc"},{"name":"我是如此相信","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000001hGx1Z0so1YX_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music-jay@1.0.1/我是如此相信/我是如此相信.lrc"},{"name":"发如雪","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M0000024bjiL2aocxT_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/发如雪/发如雪.lrc"},{"name":"以父之名","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_3.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/以父之名/以父之名.lrc"},{"name":"园游会","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.flac","cover":"https://y.qq.com/music/photo_new/T002R300x300M000003DFRzD192KKD_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.3/园游会/园游会.lrc"},{"name":"本草纲目","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/本草纲目/本草纲目.lrc"},{"name":"龙卷风","artist":"周杰伦","url":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.mp3","cover":"https://y.qq.com/music/photo_new/T002R300x300M000000f01724fd7TH_1.jpg?max_age=2592000","lrc":"https://npm.elemecdn.com/anzhiyu-music@1.0.4/龙卷风/龙卷风.lrc"}]]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>友人链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的网易云音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -507,11 +518,11 @@
     
     
     <entry>
-      <title>我的网易云音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>Genshin Impact</title>
+      <link href="/gallery/genshin/index.html"/>
+      <url>/gallery/genshin/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"https://picst.sunbangyan.cn/2023/11/10/30e8c667900ebef5343bc410e1413ada.png","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/10/336296185aba8679e76c7e234f10ff71.png","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/10/b5bd46ee1e1c03f3952326ba130fff3e.png","alt":""},{"url":"https://picdm.sunbangyan.cn/2023/11/10/75bb5bd2b50d33a03e9a58e90ee724e8.png","alt":""},{"url":"https://picdm.sunbangyan.cn/2023/11/10/1a93c809b8495812314a2170b126ab71.png","alt":""},{"url":"https://picdm.sunbangyan.cn/2023/11/13/d7b8b688a66a06574dd011e9b458e04c.jpeg","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/13/8ce98cdfcc3eaf11d2d3bf40fe638fc2.jpg","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/13/da1ab08fdca1d4f6d5d39567252d5c49.jpg","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/13/f1a53cc71b097657e0ee7c92fa406663.png","alt":""},{"url":"https://picst.sunbangyan.cn/2023/11/13/231a72e533fd9c497c395c68a5fdbf99.jpeg","alt":""},{"url":"https://picss.sunbangyan.cn/2023/11/13/1ce0debe0ff08107874464d8c2281fe0.jpeg","alt":""},{"url":"https://picst.sunbangyan.cn/2023/11/13/44d820256d472ef6ccefb06842ab3a38.jpeg","alt":""},{"url":"https://picdm.sunbangyan.cn/2023/11/13/715fc73f7c1e88bc8e563c6cf71c97a9.jpeg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div>]]></content>
       
     </entry>
     
@@ -523,17 +534,6 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Genshin Impact</title>
-      <link href="/gallery/genshin/index.html"/>
-      <url>/gallery/genshin/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery">  <div class="fj-gallery page_img_lazyload  data" data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"https://picst.sunbangyan.cn/2023/11/10/30e8c667900ebef5343bc410e1413ada.png","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/10/336296185aba8679e76c7e234f10ff71.png","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/10/b5bd46ee1e1c03f3952326ba130fff3e.png","alt":""},{"url":"https://picdm.sunbangyan.cn/2023/11/10/75bb5bd2b50d33a03e9a58e90ee724e8.png","alt":""},{"url":"https://picdm.sunbangyan.cn/2023/11/10/1a93c809b8495812314a2170b126ab71.png","alt":""},{"url":"https://picdm.sunbangyan.cn/2023/11/13/d7b8b688a66a06574dd011e9b458e04c.jpeg","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/13/8ce98cdfcc3eaf11d2d3bf40fe638fc2.jpg","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/13/da1ab08fdca1d4f6d5d39567252d5c49.jpg","alt":""},{"url":"https://picdl.sunbangyan.cn/2023/11/13/f1a53cc71b097657e0ee7c92fa406663.png","alt":""},{"url":"https://picst.sunbangyan.cn/2023/11/13/231a72e533fd9c497c395c68a5fdbf99.jpeg","alt":""},{"url":"https://picss.sunbangyan.cn/2023/11/13/1ce0debe0ff08107874464d8c2281fe0.jpeg","alt":""},{"url":"https://picst.sunbangyan.cn/2023/11/13/44d820256d472ef6ccefb06842ab3a38.jpeg","alt":""},{"url":"https://picdm.sunbangyan.cn/2023/11/13/715fc73f7c1e88bc8e563c6cf71c97a9.jpeg","alt":""}]</span>  </div><button class="gallery-load-more" style="opacity:0">  <span>加载更多</span>  <i class="anzhiyufont anzhiyu-icon-arrow-down"></i>  </button></div>]]></content>
       
     </entry>
     
@@ -552,10 +552,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime/runtime.js"/>
-      <url>/js/runtime/runtime.js</url>
+      <link href="/js/runtime/runtime.min.js"/>
+      <url>/js/runtime/runtime.min.js</url>
       
-        <content type="html"><![CDATA[var now = new Date();function createtime() {  var t = new Date("10/31/2023 00:00:00");  now.setTime(now.getTime() + 250);  var e = (now - t) / 1e3 / 60 / 60 / 24,    a = Math.floor(e),    n = (now - t) / 1e3 / 60 / 60 - 24 * a,    r = Math.floor(n);  1 == String(r).length && (r = "0" + r);  var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r,    i = Math.floor(s);  1 == String(i).length && (i = "0" + i);  var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i,    l = Math.round(o);  1 == String(l).length && (l = "0" + l);  let g = "";  (g =`<span class='textTip'>本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),    document.getElementById("workboard") &&      (document.getElementById("workboard").innerHTML = g);}setInterval(() => {  createtime();}, 250);]]></content>
+        <content type="html"><![CDATA[function createtime(){var e=new Date("10/31/2023 00:00:00");now.setTime(now.getTime()+250);var t=(now-e)/1e3/60/60/24,n=Math.floor(t),a=(now-e)/1e3/60/60-24*n,r=Math.floor(a);1==String(r).length&&(r="0"+r);var o=(now-e)/1e3/60-1440*n-60*r,i=Math.floor(o);1==String(i).length&&(i="0"+i);var l=(now-e)/1e3-86400*n-3600*r-60*i,s=Math.round(l);1==String(s).length&&(s="0"+s);let w="";w=`<span class='textTip'>本站居然运行了 ${n} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${s} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=w)}var now=new Date;setInterval(()=>{createtime()},250);]]></content>
       
     </entry>
     
@@ -563,10 +563,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime/runtime.min.js"/>
-      <url>/js/runtime/runtime.min.js</url>
+      <link href="/js/runtime/runtime.js"/>
+      <url>/js/runtime/runtime.js</url>
       
-        <content type="html"><![CDATA[function createtime(){var e=new Date("10/31/2023 00:00:00");now.setTime(now.getTime()+250);var t=(now-e)/1e3/60/60/24,n=Math.floor(t),a=(now-e)/1e3/60/60-24*n,r=Math.floor(a);1==String(r).length&&(r="0"+r);var o=(now-e)/1e3/60-1440*n-60*r,i=Math.floor(o);1==String(i).length&&(i="0"+i);var l=(now-e)/1e3-86400*n-3600*r-60*i,s=Math.round(l);1==String(s).length&&(s="0"+s);let w="";w=`<span class='textTip'>本站居然运行了 ${n} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${s} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=w)}var now=new Date;setInterval(()=>{createtime()},250);]]></content>
+        <content type="html"><![CDATA[var now = new Date();function createtime() {  var t = new Date("10/31/2023 00:00:00");  now.setTime(now.getTime() + 250);  var e = (now - t) / 1e3 / 60 / 60 / 24,    a = Math.floor(e),    n = (now - t) / 1e3 / 60 / 60 - 24 * a,    r = Math.floor(n);  1 == String(r).length && (r = "0" + r);  var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r,    i = Math.floor(s);  1 == String(i).length && (i = "0" + i);  var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i,    l = Math.round(o);  1 == String(l).length && (l = "0" + l);  let g = "";  (g =`<span class='textTip'>本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`),    document.getElementById("workboard") &&      (document.getElementById("workboard").innerHTML = g);}setInterval(() => {  createtime();}, 250);]]></content>
       
     </entry>
     
